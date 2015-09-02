@@ -1,0 +1,10 @@
+name: Example 1
+desc: A new utility that does everything you can dream of!
+site: https://github.com/kasaku/up-for-grabs.net
+tags:
+- sitecore 8
+- productivity
+- powershell
+upforgrabs:
+  name: up-for-grabs
+  link: https://github.com/kasaku/up-for-grabs.net/labels/up-for-grabs

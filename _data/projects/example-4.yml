@@ -1,0 +1,11 @@
+name: Example 4
+desc: Continuous integration ahoy!
+site: https://github.com/kasaku/up-for-grabs.net
+tags:
+- sitecore 7
+- sitecore 8
+- continuous integration
+- deployments
+upforgrabs:
+  name: up-for-grabs
+  link: https://github.com/kasaku/up-for-grabs.net/labels/up-for-grabs

@@ -1,11 +1,11 @@
-name: Up-For-Grabs.net
-desc: This site!
+name: Example 3
+desc: Custom lucene indexing excitement
 site: https://github.com/kasaku/up-for-grabs.net
 tags:
-- oss
-- web
-- jekyll
-- javascript
+- sitecore 7
+- sitecore 8
+- search
+- lucene
 upforgrabs:
   name: up-for-grabs
   link: https://github.com/kasaku/up-for-grabs.net/labels/up-for-grabs
