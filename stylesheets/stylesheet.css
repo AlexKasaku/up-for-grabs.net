@@ -106,7 +106,7 @@ footer p {
 
 a {
   text-decoration: none;
-  color: #007edf;
+  color: #DC2314;
   text-shadow: none;
 
   transition: color 0.5s ease;
@@ -273,7 +273,7 @@ Full-Width Styles
   z-index: 10;
   padding: 10px 50px 10px 10px;
   color: #fff;
-  background: url('../images/blacktocat.png') #0090ff no-repeat 95% 50%;
+  background: url('../images/blacktocat.png') #DC2314 no-repeat 95% 50%;
   font-weight: 700;
   box-shadow: 0 0 10px rgba(0,0,0,.5);
   border-bottom-left-radius: 2px;
@@ -457,7 +457,7 @@ Custom Styles
 }
 
 .projects .label {
-  background: #0090FF;
+  background: #DC2314;
   border-radius: 2px;
   color: #FFF;
   display: inline-block;
@@ -481,7 +481,7 @@ Custom Styles
   background: none white;
   border: 1px solid white;
   border-radius: 8px;
-  color: #0090ff;
+  color: #DC2314;
   display: inline-block;
   height: 16px;
   line-height: 16px;
